@@ -1,0 +1,28 @@
+body{
+    background: rgb(223, 218, 248);
+    height: 95vh;
+    width: 95;
+    font-family:Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+
+}
+.post_title {
+    font-size: 16px;
+    font-style: Verdana;
+    margin: 0;
+    margin-bottom: 15px;
+}
+.contact_list {
+    font-style: Verdana;
+    font-family:Tahoma, sans-serif;
+    list-style-type: none;
+    padding-left: 15px;
+}
+
+.contact_list li a {
+    text-decoration: none;
+}
